@@ -9,8 +9,9 @@
         "data": "https://github.com/LinkLinkoln/SkyrimRebornFAQ",
         "linkText": "Ссылка на GitHub" 
       }
-    ],
-    
+    ]
+  },
+  {
     "title": "Установка модов2",
     "content": [
       { "type": "text", "data": "Перед установкой сделайте бэкап сохранений!" },
@@ -20,7 +21,6 @@
         "data": "https://github.com/LinkLinkoln/SkyrimRebornFAQ",
         "linkText": "Ссылка на GitHub" 
       }
-    ],
-    
+    ]
   }
 ]
