@@ -1,8 +1,10 @@
 [
   {
-    "title": "Тест",
-    "text": "Это простой текст для проверки.\nПеренос строки тоже работает!",
-    "images": [],
-    "button": null
+    "title": "Установка модов",
+    "content": [
+      { "type": "text", "data": "Перед установкой сделайте бэкап сохранений!" },
+      { "type": "image", "data": "https://raw.githubusercontent.com/LinkLinkoln/SkyrimRebornFAQ/master/Images/install_step1.png" },
+      { "type": "text", "data": "Теперь запустите установщик модов." }
+    ]
   }
 ]
