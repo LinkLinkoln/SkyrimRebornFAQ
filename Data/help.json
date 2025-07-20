@@ -3,8 +3,12 @@
     "title": "Установка модов",
     "content": [
       { "type": "text", "data": "Перед установкой сделайте бэкап сохранений!" },
-      { "type": "image", "data": "https://raw.githubusercontent.com/LinkLinkoln/SkyrimRebornFAQ/master/Images/testImage.jpg" },
-      { "type": "text", "data": "Теперь запустите установщик модов." }
+      { "type": "image", "data": "https://example.com/image.jpg" },
+      { 
+        "type": "link", 
+        "data": "https://github.com/LinkLinkoln/SkyrimRebornFAQ",
+        "linkText": "Ссылка на GitHub" 
+      }
     ]
   }
 ]
