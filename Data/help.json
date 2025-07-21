@@ -2,9 +2,9 @@
   {
     "title": "Установка модов",
     "content": [
-      { "type": "text", "data": "Перед установкой сделайте бэкап сохранений!" },
+      { "type": "text", "data": "Перед установкой сделайте бэкап сохранений!", "align": "Right" },
       { "type": "image", "data": "https://raw.githubusercontent.com/LinkLinkoln/SkyrimRebornFAQ/master/Images/testImage.jpg", "align": "Center" },
-      { "type": "link", "data": "https://example.com", "linkText": "Ссылка" }
+      { "type": "link", "data": "https://example.com", "linkText": "Ссылка", "align": "Left"}
     ]
   },
   {
